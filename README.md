@@ -1,4 +1,10 @@
-## Hi there 👋
+## Welcome to my Profile 
+
+### About me: 
+- I'm a student in Business Information Systems 🎓
+- I'm living in Switzerland 🇨🇭 
+- I’m currently working on a Project for an assignement where users can rate other's playlists 💻 
+- I love music 🎶 
 
 <!--
 **ISxOdin/ISxOdin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
